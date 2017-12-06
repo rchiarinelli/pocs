@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <!-- link rel="stylesheet" type="text/css" href="js/dijit/themes/claro/claro.css"/-->   
+    <link rel="stylesheet" type="text/css" href="styles/pizzastyles.css"/>
+
+	<link rel="stylesheet" href="styles/screen.css" type="text/css" media="screen, projection" />  
+    <link rel="stylesheet" href="styles/print.css" type="text/css" media="print" />
+
+    <!-- Import fancy-type plugin. -->
+    <link rel="stylesheet" href="styles/plugins/fancy-type/screen.css" type="text/css" media="screen, projection" />  	
+	 
+	 <title>Bom delivery - In&iacute;cio</title>
+</head>
+<body>
+   <div class="container">
+	  <div id="header" class="span-24 last">
+	
+	  	<h1 id="book_haven">Bom delivery</h1>
+	  </div>
+	 		<hr />
+	   <div id="subheader" class="span-24 last">
+	         <h3 class="alt">A central de delivery online.</h3>
+	   </div>
+	
+	    <hr />
+	
+	   <div class="span-17 colborder" id="content">
+	      <div id="dojoContent">
+	         <h3 class="loud">Informe o seu endere&ccedil;o</h3>  
+	         <p>  
+	           <img class="right" src="images/delivery_pic.jpg" alt="Imagem comida" height="150" width="150"/>  
+	         </p>  
+				 <form id="provideAddressForm" action="#" method="post">
+	  	       <p>  
+	            <label for="street">
+						Rua:
+	            </label>  
+	            <input type="text" name="street" id="street" maxlength="50" size="53"/>
+	     	    </p>
+	  	       <p>  
+	            <label for="zipCode">
+						CEP:
+	            </label>  
+	            <input type="text" name="zipCode" id="zipCode" maxlength="15" size="15"/>
+					&nbsp;
+	            <label for="city">
+						Cidade:
+	            </label>  
+	            <input type="text" name="city" id="city" maxlength="15" size="15"/>
+					&nbsp;
+	            <label for="state">
+						Estado:
+	            </label>  
+	            <input type="text" name="state" id="state" maxlength="2" size="3"/>
+	     	    </p>
+	     	    <p>
+					<input type="button" name="seeAvailbaleCompanies" id="seeAvailbaleCompanies" value="Veja quem pode te atender" onclick="loadEstablishmentPage();"/>      	    
+	     	    </p>
+				 </form>     
+	    
+	        <hr />  
+	         <div class="span-8 colborder">  
+	           <h4 class="prepend-5">No celular</h4>  
+	           <p>  
+	          	  Dispon&iacute;vel para&nbsp; 
+	             iPhone &nbsp; Android &nbsp; Blackberry
+	           </p>  
+	         </div>  
+	    
+	         <div class="span-8 last">  
+	           <h4 class="prepend-5">Avalia&ccedil;&atilde;o</h4>  
+	           <p>  
+	             Avalie os restaurantes para uma melhoria continua  
+	           </p>  
+  	         </div>
+          </div>  	         
+  	         
+  	         
+  	   </div>
+	    
+	   <div class="span-6 last" id="sidebar">  
+	        <div id="recent-restaurants">  
+	          <h3 class="caps">Novos restaurantes</h3>  
+	          <div class="box">  
+	            <a href="#" class="quiet">Pizza Company</a>  
+	            <div class="quiet">Nov. 29, 2008</div>  
+	            <div class="quiet">by Craven</div>  
+	          </div>  
+	
+	          <div class="box">  
+	            <a href="#" class="quiet">Mr. Zezinho</a>  
+	            <div class="quiet">Nov. 29, 2008</div>  
+	            <div class="quiet">by Craven</div>  
+	          </div>  
+	        </div>  
+	    </div>  
+
+	   <hr />  	
+	</div>	
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  	<script type="text/javascript">
+		dojo.addOnLoad(function() {
+			loadOrderItems();
+		    if (document.pub) {
+		        document.pub();
+		    }	        	
+		});
+  	</script> 
+</head>
+<body>
+	   <div class="span-17 colborder" id="content">
+	         <div class="span-8 colborder ">  
+	           <h4 class="prepend-5">Pratos</h4>
+	           <div>
+	           	<ul id="availableItemsList" class="availableItems"></ul>
+	           </div>
+	           	
+	         </div>  
+	    
+	         <div class="span-8 last">  
+	           <h4 class="prepend-5">Pedido</h4>
+	           <div>
+	            <ul id="selectedItemsList" class="selectedItems"></ul>  
+	           </div>
+  	         </div>
+  	   </div>
+</body>
+</html>

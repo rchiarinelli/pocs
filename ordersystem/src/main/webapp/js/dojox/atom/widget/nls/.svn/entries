@@ -1,0 +1,248 @@
+10
+
+dir
+5
+svn://leafar.kinghost.net/leafar/portalpizza/trunk/ordersystem/src/main/webapp/js/dojox/atom/widget/nls
+svn://leafar.kinghost.net/leafar/portalpizza
+
+
+
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+556314c7-2219-4bee-9eec-0e6fface7fbe
+
+da
+dir
+
+de
+dir
+
+sv
+dir
+
+ja
+dir
+
+he
+dir
+
+fi
+dir
+
+nb
+dir
+
+PeopleEditor.js
+file
+
+
+
+
+2011-01-05T23:44:14.600000Z
+9e35b83ed253f93253c412de1bcbe138
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75
+
+FeedEntryEditor.js
+file
+
+
+
+
+2011-01-05T23:44:14.624000Z
+a41e4df86e517bfdba39c4c67d14be59
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+71
+
+fr
+dir
+
+nl
+dir
+
+th
+dir
+
+pl
+dir
+
+hu
+dir
+
+ro
+dir
+
+zh
+dir
+
+FeedEntryViewer.js
+file
+
+
+
+
+2011-01-05T23:44:14.684000Z
+5c1ceedd6fb83f72c35ddc1ea4b8f28c
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+194
+
+FeedViewerEntry.js
+file
+
+
+
+
+2011-01-05T23:44:14.648000Z
+08d443388a4b62bae24eb25c72fcb21f
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+ca
+dir
+
+pt
+dir
+
+tr
+dir
+
+ru
+dir
+
+el
+dir
+
+ar
+dir
+
+pt-pt
+dir
+
+cs
+dir
+
+es
+dir
+
+zh-tw
+dir
+
+ko
+dir
+
+it
+dir
+
+sk
+dir
+
+sl
+dir
+

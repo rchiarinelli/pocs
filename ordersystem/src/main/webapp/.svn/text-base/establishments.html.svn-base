@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<style type="text/css">
+		@import "js/dojox/form/resources/Rating.css";
+	</style>
+	<script type="text/javascript">
+		dojo.require("dojox.form.Rating");
+	</script>
+</head>
+<body>
+	<div id="dojoContent">
+     <h3 class="loud">Estabelecimentos</h3>
+     <table>
+     	<tr>
+     		<th>&nbsp;</th>
+     		<th>Restaurante</th>
+     		<th>Avalia&ccedil;&atilde;o</th>
+     		<th>&nbsp;</th>
+     	</tr>
+     	<tr>
+     		<td>&nbsp;</td>
+     		<td>Olaria Pizzaria</td>
+     		<td>
+				<div dojoType="dojox.form.Rating" numStars="5" value="0"></div>    		
+     		</td>
+     		<td>
+     			<img src="images/basket.png" height="25px" width="25px" alt="Fazer pedido" onclick="loadOrderPage();" title="Fazer pedido"/>
+     		</td>
+     	</tr>
+     	<tr>
+     		<td>&nbsp;</td>
+     		<td>Mr Zezinho</td>
+     		<td>
+				<div dojoType="dojox.form.Rating" numStars="5" value="0"></div>    		
+     		</td>
+     		<td>
+     			<img src="images/basket.png" height="25px" width="25px" alt="Fazer pedido" onclick="loadOrderPage();" title="Fazer pedido"/>
+     		</td>
+     	</tr>
+     	<tr>
+     		<td>&nbsp;</td>
+     		<td>Las Manas</td>
+     		<td>
+				<div dojoType="dojox.form.Rating" numStars="5" value="0"></div>    		
+     		</td>
+     		<td>
+     			<img src="images/basket.png" height="25px" width="25px" alt="Fazer pedido"  onclick="loadOrderPage();" />
+     		</td>
+     	</tr>
+     	<tr>
+     		<td>&nbsp;</td>
+     		<td>Pizza Company</td>
+     		<td>
+				<div dojoType="dojox.form.Rating" numStars="5" value="0"></div>    		
+     		</td>
+     		<td>
+     			<img src="images/basket.png" height="25px" width="25px" alt="Fazer pedido" onclick="loadOrderPage();" title="Fazer pedido"/>
+     		</td>
+     	</tr>     	
+     </table>
+	</div>     
+</body>
+</html>

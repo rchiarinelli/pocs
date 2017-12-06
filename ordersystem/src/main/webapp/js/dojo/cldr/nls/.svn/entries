@@ -1,0 +1,325 @@
+10
+
+dir
+5
+svn://leafar.kinghost.net/leafar/portalpizza/trunk/ordersystem/src/main/webapp/js/dojo/cldr/nls
+svn://leafar.kinghost.net/leafar/portalpizza
+
+
+
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+556314c7-2219-4bee-9eec-0e6fface7fbe
+
+da
+dir
+
+hebrew.js
+file
+
+
+
+
+2011-01-05T23:44:13.864000Z
+5de6a7e19deaf8e6a61e3ff23c787d80
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3418
+
+sv
+dir
+
+de
+dir
+
+gregorian.js
+file
+
+
+
+
+2011-01-05T23:44:13.876000Z
+9c0a0eee9f4ddacbd8dd2091e4ec34ac
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3237
+
+ja
+dir
+
+he
+dir
+
+islamic.js
+file
+
+
+
+
+2011-01-05T23:44:13.876000Z
+b24ef11758f975eea5a4780c4d98c109
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3148
+
+fi
+dir
+
+nb
+dir
+
+fr
+dir
+
+nl
+dir
+
+th
+dir
+
+pl
+dir
+
+hu
+dir
+
+zh
+dir
+
+buddhist.js
+file
+
+
+
+
+2011-01-05T23:44:13.872000Z
+5b4990c739a28dbda494994366132f16
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2874
+
+ca
+dir
+
+pt
+dir
+
+en-ca
+dir
+
+tr
+dir
+
+ru
+dir
+
+en-gb
+dir
+
+el
+dir
+
+en
+dir
+
+ar
+dir
+
+number.js
+file
+
+
+
+
+2011-01-05T23:44:13.876000Z
+6732b4cbc73e003721fb135e9fcdc800
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+649
+
+pt-pt
+dir
+
+en-au
+dir
+
+cs
+dir
+
+currency.js
+file
+
+
+
+
+2011-01-05T23:44:13.864000Z
+d7f78eb2dd5764064cc1888b75f42543
+2011-01-24T03:41:55.324654Z
+5
+rchiarinelli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+156
+
+es
+dir
+
+zh-tw
+dir
+
+ko
+dir
+
+it
+dir
+
+sk
+dir
+
+sl
+dir
+
